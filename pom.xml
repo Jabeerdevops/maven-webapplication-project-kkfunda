@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://13.127.198.206:8081/repository/Rel-release/</url>
+	      <url>http://65.0.203.33:8081/repository/Rel-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://13.127.198.206:8081/repository/Rel-snapshot/</url>
+	      <url>http://65.0.203.33:8081/repository/Rel-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
